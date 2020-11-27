@@ -15,3 +15,4 @@ with open(file_path) as file_object:
     print(pi_string, type(pi_string))
     pi_float = float(pi_string)
     print (pi_float, type(pi_float))
+    print ('Пользователь GIT')
