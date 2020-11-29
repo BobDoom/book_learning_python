@@ -1,0 +1,3 @@
+In Python you can read files.
+In Python you can split strings.
+In Python you can go by kukuha.
