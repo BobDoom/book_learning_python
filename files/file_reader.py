@@ -11,7 +11,7 @@
 
 #     pi_string = ''
 #     for line in lines:
-#         pi_string += line.strip()  # Без энтеров, пробелов и пропусков
+#         pi_string += line.strip()  # Без энтеров и разделителей
 #     print(pi_string, type(pi_string))
 #     pi_float = float(pi_string)
 #     print (pi_float, type(pi_float))
